@@ -4,7 +4,7 @@ dependencias das bibliotecas
 tkinter
 pyperclip
 
-# instalar 
+instalar 
 pip3 install tk
 pip3 install pyperclip
 

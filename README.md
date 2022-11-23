@@ -5,6 +5,7 @@ tkinter
 pyperclip
 
 instalar 
+
 pip3 install tk
 pip3 install pyperclip
 
